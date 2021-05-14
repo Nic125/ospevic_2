@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ospevic_2/static/css/main.cb0bb2dd.chunk.css",
+    "main.js": "/ospevic_2/static/js/main.963d6eaf.chunk.js",
+    "main.js.map": "/ospevic_2/static/js/main.963d6eaf.chunk.js.map",
+    "runtime-main.js": "/ospevic_2/static/js/runtime-main.1a4e4626.js",
+    "runtime-main.js.map": "/ospevic_2/static/js/runtime-main.1a4e4626.js.map",
+    "static/js/2.8740d3ba.chunk.js": "/ospevic_2/static/js/2.8740d3ba.chunk.js",
+    "static/js/2.8740d3ba.chunk.js.map": "/ospevic_2/static/js/2.8740d3ba.chunk.js.map",
+    "index.html": "/ospevic_2/index.html",
+    "static/css/main.cb0bb2dd.chunk.css.map": "/ospevic_2/static/css/main.cb0bb2dd.chunk.css.map",
+    "static/js/2.8740d3ba.chunk.js.LICENSE.txt": "/ospevic_2/static/js/2.8740d3ba.chunk.js.LICENSE.txt",
+    "static/media/Upperside.css": "/ospevic_2/static/media/background001.51cc7f7a.png",
+    "static/media/logo.bd7f8748.svg": "/ospevic_2/static/media/logo.bd7f8748.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a4e4626.js",
+    "static/js/2.8740d3ba.chunk.js",
+    "static/css/main.cb0bb2dd.chunk.css",
+    "static/js/main.963d6eaf.chunk.js"
+  ]
+}
