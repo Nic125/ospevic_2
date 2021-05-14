@@ -1,0 +1,13 @@
+.box{
+    width: 10%;
+    height: 50px;
+    border-left: 1px dashed white;
+    
+}
+
+.box p{
+    cursor: pointer;
+    color: white;
+    margin-top: 10px;
+    text-shadow: 0px 0px 5px black, 0px 0px 5px black;
+}
